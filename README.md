@@ -1,4 +1,4 @@
-PROJECT: ISABELLA COMPLETE SOURCE-CODE ANALYSIS, REPLICATION, AND DEVELOPMENT DIRECTIVE 1. YOUR ROLE 
+PROJECT: ISABELLA COMPLETE SOURCE-CODE ANALYSIS, REPLICATION, AND DEVELOPMENT DIRECTIVE 1. YOUR ROL 
 
 Act as a senior full-stack developer, AI architect, conversational AI engineer, frontend specialist, Three.js/VRM developer, voice systems engineer, and mobile application optimization expert.
 
